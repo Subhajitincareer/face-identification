@@ -1,0 +1,2 @@
+[console_scripts]
+chrome-mcp = chrome_mcp.server:main

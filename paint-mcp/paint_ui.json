@@ -1,0 +1,952 @@
+{
+  "success": true,
+  "action": "inspect_paint",
+  "message": "",
+  "data": {
+    "window": {
+      "title": "Untitled - Paint",
+      "process_id": 9432
+    },
+    "elements": [
+      {
+        "name": "",
+        "control_type": "Pane",
+        "automation_id": "",
+        "class_name": "Microsoft.UI.Content.DesktopChildSiteBridge",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 29,
+          "width": 1920,
+          "height": 991
+        }
+      },
+      {
+        "name": "",
+        "control_type": "Pane",
+        "automation_id": "",
+        "class_name": "InputSiteWindowClass",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 29,
+          "width": 1920,
+          "height": 991
+        }
+      },
+      {
+        "name": "",
+        "control_type": "Custom",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 29,
+          "width": 1920,
+          "height": 991
+        }
+      },
+      {
+        "name": "",
+        "control_type": "MenuBar",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 29,
+          "width": 199,
+          "height": 50
+        }
+      },
+      {
+        "name": "File",
+        "control_type": "MenuItem",
+        "automation_id": "",
+        "class_name": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 5,
+          "y": 34,
+          "width": 52,
+          "height": 40
+        }
+      },
+      {
+        "name": "Edit",
+        "control_type": "MenuItem",
+        "automation_id": "",
+        "class_name": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 67,
+          "y": 34,
+          "width": 55,
+          "height": 40
+        }
+      },
+      {
+        "name": "View",
+        "control_type": "MenuItem",
+        "automation_id": "",
+        "class_name": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 132,
+          "y": 34,
+          "width": 62,
+          "height": 40
+        }
+      },
+      {
+        "name": "Save",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 210,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "Share",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 266,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "Undo",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": false,
+        "rectangle": {
+          "x": 322,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "Redo",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": false,
+        "rectangle": {
+          "x": 372,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "What's new",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1790,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "Sign in",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1835,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "Open settings",
+        "control_type": "Button",
+        "automation_id": "SettingsButton",
+        "class_name": "AppBarButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1875,
+          "y": 34,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "name": "",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "LandmarkTarget",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 80,
+          "width": 1920,
+          "height": 137
+        }
+      },
+      {
+        "name": "",
+        "control_type": "Pane",
+        "automation_id": "ScrollViewer",
+        "class_name": "ScrollViewer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 80,
+          "width": 1888,
+          "height": 136
+        }
+      },
+      {
+        "name": "Selection",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 85,
+          "width": 93,
+          "height": 126
+        }
+      },
+      {
+        "name": "Image",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 93,
+          "y": 85,
+          "width": 198,
+          "height": 126
+        }
+      },
+      {
+        "name": "Tools",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 291,
+          "y": 85,
+          "width": 171,
+          "height": 126
+        }
+      },
+      {
+        "name": "Brushes",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 462,
+          "y": 85,
+          "width": 84,
+          "height": 126
+        }
+      },
+      {
+        "name": "Shapes",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 546,
+          "y": 85,
+          "width": 362,
+          "height": 126
+        }
+      },
+      {
+        "name": "Colours",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 920,
+          "y": 89,
+          "width": 412,
+          "height": 117
+        }
+      },
+      {
+        "name": "Copilot",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1348,
+          "y": 85,
+          "width": 81,
+          "height": 126
+        }
+      },
+      {
+        "name": "Layers",
+        "control_type": "Group",
+        "automation_id": "",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1429,
+          "y": 85,
+          "width": 81,
+          "height": 126
+        }
+      },
+      {
+        "name": "Toolbar options",
+        "control_type": "Button",
+        "automation_id": "OptionsButton",
+        "class_name": "Button",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1888,
+          "y": 184,
+          "width": 27,
+          "height": 26
+        }
+      },
+      {
+        "name": "-400",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 40,
+          "y": 217,
+          "width": 34,
+          "height": 20
+        }
+      },
+      {
+        "name": "-300",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 140,
+          "y": 217,
+          "width": 34,
+          "height": 20
+        }
+      },
+      {
+        "name": "-200",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 240,
+          "y": 217,
+          "width": 33,
+          "height": 20
+        }
+      },
+      {
+        "name": "-100",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 341,
+          "y": 217,
+          "width": 30,
+          "height": 20
+        }
+      },
+      {
+        "name": "0",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 441,
+          "y": 217,
+          "width": 10,
+          "height": 20
+        }
+      },
+      {
+        "name": "100",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 541,
+          "y": 217,
+          "width": 25,
+          "height": 20
+        }
+      },
+      {
+        "name": "200",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 641,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "300",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 741,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "400",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 841,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "500",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 941,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "600",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1041,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "700",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1141,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "800",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1241,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "900",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1341,
+          "y": 217,
+          "width": 28,
+          "height": 20
+        }
+      },
+      {
+        "name": "1000",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1441,
+          "y": 217,
+          "width": 33,
+          "height": 20
+        }
+      },
+      {
+        "name": "1100",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1541,
+          "y": 217,
+          "width": 31,
+          "height": 20
+        }
+      },
+      {
+        "name": "1200",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1641,
+          "y": 217,
+          "width": 33,
+          "height": 20
+        }
+      },
+      {
+        "name": "1300",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1741,
+          "y": 217,
+          "width": 33,
+          "height": 20
+        }
+      },
+      {
+        "name": "1400",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1841,
+          "y": 217,
+          "width": 33,
+          "height": 20
+        }
+      },
+      {
+        "name": "0",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 273,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "100",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 373,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "200",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 473,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "300",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 573,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "400",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 673,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "500",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 773,
+          "width": 20,
+          "height": 63
+        }
+      },
+      {
+        "name": "600",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 873,
+          "width": 20,
+          "height": 62
+        }
+      },
+      {
+        "name": "700",
+        "control_type": "Text",
+        "automation_id": "",
+        "class_name": "TextBlock",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 973,
+          "width": 20,
+          "height": 46
+        }
+      },
+      {
+        "name": "",
+        "control_type": "Pane",
+        "automation_id": "scrollViewer",
+        "class_name": "ScrollViewer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 25,
+          "y": 242,
+          "width": 1895,
+          "height": 778
+        }
+      },
+      {
+        "name": "Using Brush tool on Canvas",
+        "control_type": "Group",
+        "automation_id": "image",
+        "class_name": "NamedContainerAutomationPeer",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 441,
+          "y": 274,
+          "width": 1062,
+          "height": 746
+        }
+      },
+      {
+        "name": "Vertical",
+        "control_type": "ScrollBar",
+        "automation_id": "VerticalScrollBar",
+        "class_name": "ScrollBar",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1905,
+          "y": 242,
+          "width": 15,
+          "height": 778
+        }
+      },
+      {
+        "name": "Vertical Small Decrease",
+        "control_type": "Button",
+        "automation_id": "VerticalSmallDecrease",
+        "class_name": "RepeatButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1905,
+          "y": 242,
+          "width": 15,
+          "height": 15
+        }
+      },
+      {
+        "name": "Vertical Large Decrease",
+        "control_type": "Button",
+        "automation_id": "VerticalLargeDecrease",
+        "class_name": "RepeatButton",
+        "visible": false,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "name": "Vertical Large Increase",
+        "control_type": "Button",
+        "automation_id": "VerticalLargeIncrease",
+        "class_name": "RepeatButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1905,
+          "y": 736,
+          "width": 15,
+          "height": 269
+        }
+      },
+      {
+        "name": "Vertical Small Increase",
+        "control_type": "Button",
+        "automation_id": "VerticalSmallIncrease",
+        "class_name": "RepeatButton",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1905,
+          "y": 1005,
+          "width": 15,
+          "height": 14
+        }
+      },
+      {
+        "name": "Size",
+        "control_type": "Slider",
+        "automation_id": "",
+        "class_name": "Slider",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 45,
+          "y": 445,
+          "width": 41,
+          "height": 382
+        }
+      },
+      {
+        "name": "Opacity",
+        "control_type": "Slider",
+        "automation_id": "",
+        "class_name": "Slider",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 105,
+          "y": 443,
+          "width": 41,
+          "height": 384
+        }
+      },
+      {
+        "name": "",
+        "control_type": "TitleBar",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 20,
+          "y": -6,
+          "width": 1900,
+          "height": 35
+        }
+      },
+      {
+        "name": "System",
+        "control_type": "MenuBar",
+        "automation_id": "MenuBar",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 0,
+          "width": 28,
+          "height": 28
+        }
+      },
+      {
+        "name": "System",
+        "control_type": "MenuItem",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 0,
+          "y": 0,
+          "width": 28,
+          "height": 28
+        }
+      },
+      {
+        "name": "Minimize",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1740,
+          "y": 0,
+          "width": 60,
+          "height": 28
+        }
+      },
+      {
+        "name": "Restore",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1800,
+          "y": 0,
+          "width": 59,
+          "height": 28
+        }
+      },
+      {
+        "name": "Close",
+        "control_type": "Button",
+        "automation_id": "",
+        "class_name": "",
+        "visible": true,
+        "enabled": true,
+        "rectangle": {
+          "x": 1859,
+          "y": 0,
+          "width": 61,
+          "height": 28
+        }
+      }
+    ]
+  },
+  "error": null
+}

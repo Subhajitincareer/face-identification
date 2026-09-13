@@ -1,0 +1,10 @@
+pyproject.toml
+src/chrome_mcp/__init__.py
+src/chrome_mcp/browser.py
+src/chrome_mcp/server.py
+src/chrome_mcp.egg-info/PKG-INFO
+src/chrome_mcp.egg-info/SOURCES.txt
+src/chrome_mcp.egg-info/dependency_links.txt
+src/chrome_mcp.egg-info/entry_points.txt
+src/chrome_mcp.egg-info/requires.txt
+src/chrome_mcp.egg-info/top_level.txt

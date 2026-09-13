@@ -1,0 +1,7 @@
+SpeechRecognition
+PyAudio
+Pillow
+opencv-python
+numpy
+pywin32
+mss

@@ -1,0 +1,14 @@
+[project]
+name = "chrome-mcp"
+version = "0.1.0"
+description = "A Chrome browser MCP server controlled via Selenium."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "selenium>=4.20.0",
+    "webdriver-manager>=4.0.0",
+]
+
+[project.scripts]
+chrome-mcp = "chrome_mcp.server:main"

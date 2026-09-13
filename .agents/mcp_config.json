@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "notepad-mcp": {
+      "command": "e:\\cloning_project\\face-identification\\notepad-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["e:\\cloning_project\\face-identification\\notepad-mcp\\server.py"]
+    },
+    "paint-mcp": {
+      "command": "e:\\cloning_project\\face-identification\\paint-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["e:\\cloning_project\\face-identification\\paint-mcp\\server.py"]
+    },
+    "chrome-mcp": {
+      "command": "C:\\Python313\\python.exe",
+      "args": ["e:\\cloning_project\\face-identification\\chrome-mcp\\src\\chrome_mcp\\server.py"]
+    }
+  }
+}

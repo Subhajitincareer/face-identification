@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: chrome-mcp
+Version: 0.1.0
+Summary: A Chrome browser MCP server controlled via Selenium.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: mcp>=1.0.0
+Requires-Dist: selenium>=4.20.0
+Requires-Dist: webdriver-manager>=4.0.0

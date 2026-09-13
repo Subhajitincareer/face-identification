@@ -17,3 +17,10 @@ web-build/
 backend/node_modules/
 backend/.env
 .env
+
+# Large binaries and logs
+/chrome/
+/voice-screenshot-tool/videos/
+/voice-screenshot-tool/screenshots/
+__pycache__/
+*.pyc
