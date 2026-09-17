@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "video-speed-viewer",
+    "slug": "video-speed-viewer",
+    "scheme": "videospeedviewer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.subhajit.videospeedviewer",
+      "adaptiveIcon": {
+        "backgroundColor": "#1e1e1e",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-video"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bad60f4e-0239-4c7a-85f1-05c482d51ac0"
+      }
+    }
+  }
+}
